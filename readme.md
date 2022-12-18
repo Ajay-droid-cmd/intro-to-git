@@ -29,4 +29,8 @@ git checkout -b new brach name
 
 git branch
 
-git branch branch name
+git checkout branch name
+
+git merge <branch name>
+
+git brach -d branch name
