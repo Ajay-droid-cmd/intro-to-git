@@ -17,3 +17,16 @@ git status
 git commit -m "message"
 
 git log
+
+git add -A 
+
+git  reset HEAD filename
+
+.gitignore 
+//Add filenames into the folder
+
+git checkout -b new brach name
+
+git branch
+
+git branch branch name
